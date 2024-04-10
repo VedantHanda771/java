@@ -1,3 +1,5 @@
+import java.util.NoSuchElementException;
+
 public class que {
     private listNode front;
     private listNode rear;
@@ -54,6 +56,33 @@ public class que {
         System.out.println("null");
     }
 
+    public int deque(){
+        if(isEmpty()){
+            throw new NoSuchElementException("the queue is empty.");
+        }
+        int result=front.data;
+        front = front.next;
+        if(front == null){
+            rear=null;
+        }
+        length--;
+        return result;
+    }
+
+    public int first(){
+        if(isEmpty()){
+            throw new NoSuchElementException("The Queue is Empty!");
+        }
+        return front.data;
+    }
+
+    public int last(){
+        if(isEmpty()){
+            throw new NoSuchElementException("The Queue is Empty!");
+        }
+        return rear.data;
+    }
+
     public static void main(String[] agrs){
         que que =new que();
         que.enque(10);
@@ -61,6 +90,13 @@ public class que {
         que.enque(30);
 
         que.print();
+
+        // que.deque();
+        // que.print();
+
+        System.out.println(que.first());
+        System.out.println(que.last());
+
     }
     
 }
