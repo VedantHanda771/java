@@ -21,12 +21,15 @@ public class binaryTree {
         TreeNode third = new TreeNode(3);
         TreeNode fourth = new TreeNode(4);
         TreeNode fifth = new TreeNode(5);
+        TreeNode sixth = new TreeNode(6);
 
         root = first;
         first.left = second;
         first.right = third;
-        second.right = fourth;
+        second.left = fourth;
         second.right = fifth;
+        third.left = sixth;
+
 
     }
 
@@ -73,11 +76,32 @@ public class binaryTree {
         inOrder(root.right);
     }
 
+    public void iterative(TreeNode root){
+        if(root == null){
+            return;
+        }
+
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode temp = root;
+
+        while(!stack.isEmpty() || temp!= null){
+            if(temp!= null){
+                stack.push(temp);
+                temp = temp.left;
+            } else {
+                temp = stack.pop();
+                System.out.print(temp.data + " ");
+                temp = temp.right;
+            }
+        }
+
+    }
+
     public static void main(String[] agrs){
 
     binaryTree bt = new binaryTree();
     bt.genrateBinaryTree();
-    bt.inOrder(bt.root);
+    bt.iterative(bt.root);
         
     }
 
