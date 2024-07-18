@@ -83,6 +83,8 @@ public class que {
         return rear.data;
     }
 
+
+
     public static void main(String[] agrs){
         que que =new que();
         que.enque(10);
