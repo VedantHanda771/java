@@ -13,7 +13,7 @@ public class pattern9 {
                 }
             }
             System.out.println();
-        }
+        } 
         return value;
     }
     public static void main(String [] agrs){
