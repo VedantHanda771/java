@@ -27,7 +27,7 @@ public class fromat {
         Scanner sc = new Scanner(System.in);
         int in1 = sc.nextInt();
         int in2 = sc.nextInt();
-        int result = for2(in1, in2);
+        int result = int2(in1, in2);
         // System.out.println(result);
     }
 
