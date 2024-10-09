@@ -1,0 +1,1 @@
+{"name":"Local: abtab","url":"d:\\java\\pepcodiing\\abtab.java","tests":[{"id":1728499001865,"input":"1172\n8\n10","output":"634"},{"id":1728499056740,"input":"634\n10\n8","output":"1172"},{"id":1728499298880,"input":"172\n8\n2","output":"1111010"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\abtab.java","group":"local","local":true}
