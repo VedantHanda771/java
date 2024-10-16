@@ -1,0 +1,1 @@
+{"name":"Local: anyBaseSubstraction","url":"d:\\java\\pepcodiing\\anyBaseSubstraction.java","tests":[{"id":1729105302771,"input":"7\n21\n202","output":"151"},{"id":1729105613068,"input":"8\n256\n1212","output":"734"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\anyBaseSubstraction.java","group":"local","local":true}

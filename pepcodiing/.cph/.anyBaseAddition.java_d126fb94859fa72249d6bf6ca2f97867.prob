@@ -1,0 +1,1 @@
+{"name":"Local: anyBaseAddition","url":"d:\\java\\pepcodiing\\anyBaseAddition.java","tests":[{"id":1729104345622,"input":"8\n236\n754","output":"1212"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\anyBaseAddition.java","group":"local","local":true}
