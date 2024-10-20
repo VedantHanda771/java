@@ -1,0 +1,1 @@
+{"name":"Local: AnyBaseMultiplication","url":"d:\\java\\pepcodiing\\AnyBaseMultiplication.java","tests":[{"id":1729157274026,"input":"5\n12220\n31","output":"430320"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\AnyBaseMultiplication.java","group":"local","local":true}
