@@ -1,0 +1,1 @@
+{"name":"Local: decRecursion","url":"d:\\java\\pepcodiing\\decRecursion.java","tests":[{"id":1729535434351,"input":"5","output":"5\n4\n3\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\decRecursion.java","group":"local","local":true}
