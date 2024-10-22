@@ -1,0 +1,1 @@
+{"name":"Local: incRecurion","url":"d:\\java\\pepcodiing\\incRecurion.java","tests":[{"id":1729572068028,"input":"5","output":"1\n2\n3\n4\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\incRecurion.java","group":"local","local":true}

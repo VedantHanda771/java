@@ -1,0 +1,1 @@
+{"name":"Local: primeFactorization","url":"d:\\java\\pepcodiing\\primeFactorization.java","tests":[{"id":1729570131252,"input":"24","output":"2 2 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\primeFactorization.java","group":"local","local":true}

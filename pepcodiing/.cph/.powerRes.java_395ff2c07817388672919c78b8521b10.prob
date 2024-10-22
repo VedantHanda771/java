@@ -1,0 +1,1 @@
+{"name":"Local: powerRes","url":"d:\\java\\pepcodiing\\powerRes.java","tests":[{"id":1729576017181,"input":"5\n2","output":"25"},{"id":1729576111691,"input":"2\n3","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\powerRes.java","group":"local","local":true}
