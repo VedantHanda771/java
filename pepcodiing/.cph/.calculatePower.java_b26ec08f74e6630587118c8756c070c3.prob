@@ -1,0 +1,1 @@
+{"name":"Local: calculatePower","url":"d:\\java\\pepcodiing\\calculatePower.java","tests":[{"id":1729706815197,"input":"5\n2","output":"25"},{"id":1729706830732,"input":"2\n3","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\calculatePower.java","group":"local","local":true}
