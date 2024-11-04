@@ -1,0 +1,1 @@
+{"name":"Local: BlockedNQueensCount","url":"d:\\java\\CSES\\BlockedNQueensCount.java","tests":[{"id":1729226142084,"input":"........\n........\n..*.....\n........\n........\n.....**.\n...*....\n........","output":"65"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\CSES\\BlockedNQueensCount.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: nQueen","url":"d:\\java\\CSES\\nQueen.java","tests":[{"id":1729224979414,"input":"4","output":".Q..\n...Q\nQ...\n..Q.\n\n..Q.\nQ...\n...Q\n.Q..\n"},{"id":1729225135537,"input":"2","output":"No solution exists."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\CSES\\nQueen.java","group":"local","local":true}

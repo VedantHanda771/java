@@ -1,0 +1,1 @@
+{"name":"Local: AdjacencyMatrixGraph","url":"d:\\java\\CSES\\AdjacencyMatrixGraph.java","tests":[{"id":1730699171384,"input":"4\n4\n1 3\n1 2\n1 4\n3 4","output":"0 1 1 1 \n1 0 0 0\n1 0 0 1\n1 0 1 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\CSES\\AdjacencyMatrixGraph.java","group":"local","local":true}
