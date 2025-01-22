@@ -1,0 +1,1 @@
+{"name":"Local: AnagramCheck","url":"d:\\java\\pepcodiing\\AnagramCheck.java","tests":[{"id":1737538750956,"input":"listen\nsilent","output":"true"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\AnagramCheck.java","group":"local","local":true}
