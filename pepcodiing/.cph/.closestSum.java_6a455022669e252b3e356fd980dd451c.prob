@@ -1,0 +1,1 @@
+{"name":"Local: closestSum","url":"d:\\java\\pepcodiing\\closestSum.java","tests":[{"id":1738056430461,"input":"5 14\n1 3 5 8 10","output":"5 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\closestSum.java","group":"local","local":true}

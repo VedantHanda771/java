@@ -1,0 +1,1 @@
+{"name":"Local: leetcode_459","url":"d:\\java\\pepcodiing\\leetcode_459.java","tests":[{"id":1738143448951,"input":"abab","output":"true"},{"id":1738143469046,"input":"abc","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\leetcode_459.java","group":"local","local":true}

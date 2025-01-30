@@ -1,0 +1,1 @@
+{"name":"Local: Arthemitic_exception","url":"d:\\java\\pepcodiing\\Arthemitic_exception.java","tests":[{"id":1738213785399,"input":"10 10","output":"1"},{"id":1738213797818,"input":"10 0","output":"not allowed"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\Arthemitic_exception.java","group":"local","local":true}

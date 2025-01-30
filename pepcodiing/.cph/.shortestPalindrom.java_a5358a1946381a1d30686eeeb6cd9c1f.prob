@@ -1,0 +1,1 @@
+{"name":"Local: shortestPalindrom","url":"d:\\java\\pepcodiing\\shortestPalindrom.java","tests":[{"id":1738145418836,"input":"aacecaaa","output":"aaacecaaa"},{"id":1738145457759,"input":"abcd","output":"dcbabcd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\shortestPalindrom.java","group":"local","local":true}
