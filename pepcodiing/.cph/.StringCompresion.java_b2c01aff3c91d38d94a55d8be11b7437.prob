@@ -1,0 +1,1 @@
+{"name":"Local: StringCompresion","url":"d:\\java\\pepcodiing\\StringCompresion.java","tests":[{"id":1738574640930,"input":"aabbc","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\StringCompresion.java","group":"local","local":true}
