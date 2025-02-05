@@ -1,0 +1,1 @@
+{"name":"Local: findChars","url":"d:\\java\\in class task\\findChars.java","tests":[{"id":1738749785762,"input":"Neeraj123@!","output":"upper->1 lower->5 num->3special->2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\in class task\\findChars.java","group":"local","local":true}
