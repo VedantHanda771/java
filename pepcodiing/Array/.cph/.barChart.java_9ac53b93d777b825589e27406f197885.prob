@@ -1,0 +1,1 @@
+{"name":"Local: barChart","url":"d:\\java\\pepcodiing\\Array\\barChart.java","tests":[{"id":1742574231552,"input":"5\n1 3 2 5 4","output":"\t\t\t*\t\t\r\n\t\t\t*\t*\t\r\n\t*\t\t*\t*\t\r\n\t*\t*\t*\t*\t\r\n*\t*\t*\t*\t*\t\r\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\Array\\barChart.java","group":"local","local":true}

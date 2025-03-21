@@ -1,0 +1,1 @@
+{"name":"Local: findElem","url":"d:\\java\\pepcodiing\\Array\\findElem.java","tests":[{"id":1742573009040,"input":"4\n1 2 3 4\n5","output":"-1"},{"id":1742573033507,"input":"4\n3 6 7 4\n7","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\Array\\findElem.java","group":"local","local":true}

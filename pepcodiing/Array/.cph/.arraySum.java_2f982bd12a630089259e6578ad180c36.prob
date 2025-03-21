@@ -1,0 +1,1 @@
+{"name":"Local: arraySum","url":"d:\\java\\pepcodiing\\Array\\arraySum.java","tests":[{"id":1742580683853,"input":"4\n1 2 3 4\n5 \n5 4 3 2 1","output":"5 5 5 5 5 "},{"id":1742580796426,"input":"3\n9 9 9\n1\n1","output":"1 0 0 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\Array\\arraySum.java","group":"local","local":true}
