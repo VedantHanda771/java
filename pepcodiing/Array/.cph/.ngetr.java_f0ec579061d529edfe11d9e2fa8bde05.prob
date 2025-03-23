@@ -1,0 +1,1 @@
+{"name":"Local: ngetr","url":"d:\\java\\pepcodiing\\Array\\ngetr.java","tests":[{"id":1742750084610,"input":"6\n1 2 3 5 1 4","output":"2 3 5 -1 -1 -1"},{"id":1742750887527,"input":"9\n2 5 9 3 1 12 6 8 7","output":"5 9 12 12 12 -1 8 -1 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\Array\\ngetr.java","group":"local","local":true}
