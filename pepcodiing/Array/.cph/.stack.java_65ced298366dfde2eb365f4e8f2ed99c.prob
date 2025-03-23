@@ -1,0 +1,1 @@
+{"name":"Local: stack","url":"d:\\java\\pepcodiing\\Array\\stack.java","tests":[{"id":1742730290090,"input":"(a+B)","output":"false"},{"id":1742730417343,"input":"(a+b)+((c+d))","output":"true"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\Array\\stack.java","group":"local","local":true}

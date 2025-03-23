@@ -1,0 +1,1 @@
+{"name":"Local: validOpen","url":"d:\\java\\pepcodiing\\Array\\validOpen.java","tests":[{"id":1742733725372,"input":"[(a+b)+{(c+d)*(e/f)}]","output":"true"},{"id":1742733939973,"input":"[(a+b)+{(c+d)*(e/f)]}","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\pepcodiing\\Array\\validOpen.java","group":"local","local":true}
