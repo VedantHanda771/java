@@ -1,0 +1,1 @@
+{"name":"Local: pathSum","url":"d:\\java\\in class task\\pathSum.java","tests":[{"id":1751889516710,"input":"5 3 8 1 4 -1 9 -1 -1 -1 -1 -1 -1","output":"Path sum: 9\nPath sum: 12\nPath sum: 22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\in class task\\pathSum.java","group":"local","local":true}
