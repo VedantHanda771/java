@@ -7,7 +7,7 @@ public class Main {
     static final long INF = Long.MAX_VALUE;
 
     public static void main(String[] args) throws IOException {
-        FastReader in = new FastReader();Q
+        FastReader in = new FastReader();
         PrintWriter out = new PrintWriter(System.out);
         int t = in.nextInt();
         while (t-- > 0) {
