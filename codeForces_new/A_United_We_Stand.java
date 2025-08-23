@@ -20,36 +20,28 @@ public class A_United_We_Stand {
     static void solve(FastReader in, PrintWriter out) {
         // Problem-solving logic goes here
         int n = in.nextInt();
-int[] arr = new int[n];
-for (int i = 0; i < n; i++) arr[i] = in.nextInt();
-
-ArrayList<Integer> b = new ArrayList<>();
-ArrayList<Integer> c = new ArrayList<>();
-
-for (int i = 0; i < n; i++) {
-    boolean divisible = false;
-    for (int j = 0; j < n; j++) {
-        if (i != j && arr[j] % arr[i] == 0) {
-            divisible = true;
-            break;
+        int[] arr = new int[n];
+        for(int i = 0;i<n;i++) {
+            arr[i] = in.nextInt();
         }
-    }
-    if (divisible) b.add(arr[i]);
-    else c.add(arr[i]);
-}
-
-if(c.size() != 0){
-    out.print(c.size() + " " + b.size());
-out.println();
-for (int x : c) out.print(x + " ");
-out.println();
-for (int x : b) out.print(x + " ");
-out.println();
-} else{
-    out.println("-1");
-}
-
-
+        long max = Long.MIN_VALUE;
+        for (int x : arr) max = Math.max(max, x);
+        ArrayList<Long> b = new ArrayList<>();
+        ArrayList<Long> c = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            if (arr[i] != max) b.add((long) arr[i]);
+            else c.add((long) arr[i]);
+        }
+        if(b.size() != 0){
+            out.print(b.size() + " " + c.size());
+            out.println();
+            for (long x : b) out.print(x + " ");
+            out.println();
+            for (long x : c) out.print(x + " ");
+            out.println();
+        } else{
+            out.println("-1");
+        }
     }
 
     static class FastReader {

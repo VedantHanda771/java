@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class A_Buttons {
 
     static final int MOD = 1_000_000_007;
     static final long INF = Long.MAX_VALUE;
@@ -19,6 +19,14 @@ public class Main {
 
     static void solve(FastReader in, PrintWriter out) {
         // Problem-solving logic goes here
+        int n = in.nextInt();
+        int b = in.nextInt();
+        int c = in.nextInt();
+        if(n>b) out.println("First");
+        // else if(n==b && b==c) out.println("First");
+        else if(n==b && c%2==0) out.println("Second");
+        else if(n==b && c%2!=0) out.println("First");
+        else out.println("Second");
     }
 
     static class FastReader {
