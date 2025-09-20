@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class templete {
+public class A_Shortest_Increasing_Path {
 
     static final int MOD = 1_000_000_007;
     static final long INF = Long.MAX_VALUE;
@@ -18,7 +18,16 @@ public class templete {
     }
 
     static void solve(FastReader in, PrintWriter out) {
-        // Problem-solving logic goes here
+        long n = in.nextLong();
+        long m = in.nextLong();
+       
+        if(m>n){
+            out.println(2);
+        } else if(m>=2 && n-m >=2) {
+            out.println(3);
+        } else {
+            out.println(-1);
+        }
     }
 
     static class FastReader {

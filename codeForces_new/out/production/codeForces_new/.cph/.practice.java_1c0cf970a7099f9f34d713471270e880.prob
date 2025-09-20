@@ -1,0 +1,1 @@
+{"name":"Local: practice","url":"d:\\java\\codeForces_new\\practice.java","tests":[{"id":1724386245131,"input":"4\n1234\n9981\n1010\n1297","output":"2345\n92\n2121\n2308\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\codeForces_new\\practice.java","group":"local","local":true}
